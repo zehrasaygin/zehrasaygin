@@ -119,6 +119,11 @@ An interactive 3D wireframe vehicle developed using C++, OpenGL, and GLUT.
 - Contributing to student community activities and technology-focused initiatives.
 - October 2026 – Present.
 
+**🤖 Microsoft AI Innovators Internship — AI Development**
+- July 2026 – August 2026.
+- Worked with Microsoft Foundry Local SDK and locally deployed language models.
+- Explored RAG and local LLM inference.
+
 **🚀 TEKNOFEST — Volunteer**
 - Supported the competition area and event organization at the Unmanned Ground Vehicles Competition in Mardin.
 
@@ -143,11 +148,6 @@ An interactive 3D wireframe vehicle developed using C++, OpenGL, and GLUT.
 - Aydın Adnan Menderes University
 - September 2022 – June 2027 (Expected)
 - English-medium programme.
-
-**🤖 Microsoft AI Innovators Internship — AI Development**
-- July 2026 – August 2026.
-- Worked with Microsoft Foundry Local SDK and locally deployed language models.
-- Explored RAG and local LLM inference.
 
 **🛡️ Siber Vatan Cybersecurity Training Programme**
 - 2025 – 2026.
