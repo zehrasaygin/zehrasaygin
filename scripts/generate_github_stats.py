@@ -163,8 +163,8 @@ def create_languages_svg(user):
         reverse=True
     )[:6]
 
-    total_size = sum(item["size"]["size"] for item in languages)
-
+    total_size = sum(info["size"] for _, info in languages)
+    
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" '
         'width="520" height="190" viewBox="0 0 520 190">',
