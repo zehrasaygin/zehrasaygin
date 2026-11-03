@@ -174,12 +174,14 @@ An interactive 3D wireframe vehicle developed using C++, OpenGL, and GLUT.
 
 <div align="center">
 
+  <!-- GitHub Statistics -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zehrasaygin&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=9b6ba5&icon_color=d88fbd&text_color=6f5875"
+    src="./assets/github-stats.svg"
     height="165"
     alt="Zehra's GitHub statistics"
   />
 
+  <!-- GitHub Streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=zehrasaygin&hide_border=true&background=fff7fb&stroke=e7cde2&ring=c88fba&fire=cc7ba8&currStreakLabel=9b6ba5&sideLabels=9b83a2&dates=a88dac"
     height="165"
@@ -192,8 +194,9 @@ An interactive 3D wireframe vehicle developed using C++, OpenGL, and GLUT.
 
 <div align="center">
 
+  <!-- Most Used Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrasaygin&layout=compact&hide_border=true&bg_color=fff7fb&title_color=9b6ba5&text_color=6f5875"
+    src="./assets/top-languages.svg"
     height="140"
     alt="Most used programming languages"
   />
