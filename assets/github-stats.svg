@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="175" viewBox="0 0 520 175">
+<rect x="1" y="1" width="518" height="173" rx="9" fill="#fff7fb" stroke="#e7cde2"/>
+<text x="26" y="37" font-family="Arial" font-size="17" font-weight="bold" fill="#9b6ba5">GitHub Overview</text>
+<text x="65" y="91" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#28212b">5</text>
+<text x="65" y="117" text-anchor="middle" font-family="Arial" font-size="10" fill="#9b83a2">Public Repositories</text>
+<line x1="130" y1="60" x2="130" y2="145" stroke="#ead6e6"/>
+<text x="195" y="91" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#28212b">17</text>
+<text x="195" y="117" text-anchor="middle" font-family="Arial" font-size="10" fill="#9b83a2">Followers</text>
+<line x1="260" y1="60" x2="260" y2="145" stroke="#ead6e6"/>
+<text x="325" y="91" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#28212b">20</text>
+<text x="325" y="117" text-anchor="middle" font-family="Arial" font-size="10" fill="#9b83a2">Following</text>
+<line x1="390" y1="60" x2="390" y2="145" stroke="#ead6e6"/>
+<text x="455" y="91" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#28212b">45</text>
+<text x="455" y="117" text-anchor="middle" font-family="Arial" font-size="10" fill="#9b83a2">Contributions · 12 mo</text>
+</svg>
